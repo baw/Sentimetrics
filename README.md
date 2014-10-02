@@ -1,4 +1,4 @@
 Sentimetrics
 ========
 
-This was out creatation at the Data Week/API World Hackathon to aid marketing people with knowing their audience better.
+This was our creatation at the [Data Week/API World Hackathon](http://dataweek.co/hackathon/) to aid marketing people with understanding their audience better by analyzing comments on Youtube videos.
